@@ -12,4 +12,5 @@
 07distributedcrawler            分布式爬虫        --nats(消息队列),colly（爬虫）
 08pubsub                        发布订阅模型       --包pubsub实现了一个简单的多主题pub-sub库。
 09gatefs                        控制并发数         --vfs/gatefs包，为了控制访问该虚拟文件系统的最大并发数。
+10token                         token验证身份
 ```
